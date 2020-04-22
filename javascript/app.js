@@ -16,7 +16,7 @@ const animate = () => {
 
   // Intialize the localStorage
   if(!progress){
-    progress = 5
+    progress = 33
     localStorage.setItem('progress', progress)
   }
 
